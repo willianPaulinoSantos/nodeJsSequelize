@@ -1,0 +1,23 @@
+{
+  "name": "projeto-nodejs-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/willianPaulinoSantos/nodeJsSequelize.git"
+  },
+  "author": "Willian Paulino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianPaulinoSantos/nodeJsSequelize/issues"
+  },
+  "homepage": "https://github.com/willianPaulinoSantos/nodeJsSequelize#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  }
+}
